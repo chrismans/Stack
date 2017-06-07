@@ -1,0 +1,18 @@
+1. <Iostream.h>
+Diginakan untuk menampilkan perintah:
+- Cin
+Merupakan fungsi masukan(digunakan untuk menyimpan data dalam suatu variabel). Bentuk umum: cin>>var x;
+dsb
+2. <Conio.h>
+Digunakan untuk menampilakan perintah:
+- getch
+berfungsi untuk menahan tampilan. Bentuk umum: getch();
+- clrscr
+berfungsi untuk membersihkan layar. Bentuk umum: clrscr;
+- getche
+dsb
+3 # define
+
+Digunakan untuk mendefinisikan suatu nilai tertentu kepada suatu nama konstanta.
+Bentuk umum dari preprocessor directive #define ini adalah:
+define max 10
